@@ -1,0 +1,2 @@
+Multiplayer Checkers Game App - A player vs player and player vs AI based player checkers game app.
+App developed with C# and WinForms for the UI.
